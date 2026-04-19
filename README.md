@@ -1,0 +1,1 @@
+# powerbi-borsa-analizi
